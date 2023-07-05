@@ -114,6 +114,6 @@ if status:
 else:
 
     print("You got " + word + " in " + str(tries) + " tries!")
-    print("Congratulations!")
+    print("Congratulations! You lose!")
 
     
