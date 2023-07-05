@@ -110,6 +110,7 @@ print("------------------------------")
 colWord = ""
 if status:
     print("Sorry! The word was: " + word)
+    print(":(")
 else:
 
     print("You got " + word + " in " + str(tries) + " tries!")
